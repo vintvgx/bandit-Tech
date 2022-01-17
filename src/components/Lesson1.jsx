@@ -41,6 +41,14 @@ function Lesson1() {
             </div>
         )
 
+    const Javascript = {
+        (
+            <div>
+                <p>This is Javascript</p>
+            </div>
+        )
+    }
+
     const buttons =
         (
         <div>
