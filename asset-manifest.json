@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bandit-Tech/static/css/main.09a35770.css",
-    "main.js": "/bandit-Tech/static/js/main.8838ba56.js",
+    "main.css": "/bandit-Tech/static/css/main.11ecb7d4.css",
+    "main.js": "/bandit-Tech/static/js/main.a32f1005.js",
     "index.html": "/bandit-Tech/index.html",
-    "main.09a35770.css.map": "/bandit-Tech/static/css/main.09a35770.css.map",
-    "main.8838ba56.js.map": "/bandit-Tech/static/js/main.8838ba56.js.map"
+    "main.11ecb7d4.css.map": "/bandit-Tech/static/css/main.11ecb7d4.css.map",
+    "main.a32f1005.js.map": "/bandit-Tech/static/js/main.a32f1005.js.map"
   },
   "entrypoints": [
-    "static/css/main.09a35770.css",
-    "static/js/main.8838ba56.js"
+    "static/css/main.11ecb7d4.css",
+    "static/js/main.a32f1005.js"
   ]
 }
