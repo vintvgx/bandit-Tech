@@ -4,7 +4,6 @@ About The Project
 
 Welcome to Bandit-Tech, a React-based web application designed to make learning software development easier, interactive, and more engaging.
 
-Bandit-Tech Screenshot
 
 Built With
 React
